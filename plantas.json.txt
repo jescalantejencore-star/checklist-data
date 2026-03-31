@@ -1,0 +1,26 @@
+{
+  "plantas": [
+    {
+      "nombre": "Planta Solar 1",
+      "pdfs": [
+        {
+          "nombre": "Checklist Inversores",
+          "url": "https://TU_LINK_PDF_1"
+        },
+        {
+          "nombre": "Checklist Paneles",
+          "url": "https://TU_LINK_PDF_2"
+        }
+      ]
+    },
+    {
+      "nombre": "Planta Solar 2",
+      "pdfs": [
+        {
+          "nombre": "Checklist General",
+          "url": "https://TU_LINK_PDF_3"
+        }
+      ]
+    }
+  ]
+}
