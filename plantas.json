@@ -1,0 +1,43 @@
+{
+  "plantas": [
+    {
+      "nombre": "Alberizas",
+      "pdfs": [
+        {
+          "nombre": "MP-CAB-06M",
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MP-CAB-06M%20-%20Cableado%20-%20Mantenimiento%20Preventivo.pdf"
+        },
+        {
+          "nombre": "MP-CAB-12M",
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MP-CAB-12M%20-%20Cableado%20-%20Mantenimiento%20Preventivo.pdf"
+        },
+        {
+          "nombre": "MP-CRM-01M",
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MP-CRM-01M%20-%20Caseta%20de%20control.pdf"
+        },
+        {
+          "nombre": "MP-CTR-03M",
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MP-CTR-03M%20-%20Centros%20de%20transformacion.pdf"
+        }
+      ]
+    },
+    {
+      "nombre": "Cañamares",
+      "pdfs": [
+        {
+          "nombre": "Checklist",
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/cañamares/archivo.pdf"
+        }
+      ]
+    },
+    {
+      "nombre": "La Miranda",
+      "pdfs": [
+        {
+          "nombre": "Checklist",
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/lamiranda/archivo.pdf"
+        }
+      ]
+    }
+  ]
+}
