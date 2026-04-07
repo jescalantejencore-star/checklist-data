@@ -4,34 +4,34 @@
       "nombre": "Alberizas",
       "pdfs": [
         {
-          "nombre": "MP-CAB-06M",
-          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MP-CAB-06M%20-%20Cableado%20-%20Mantenimiento%20Preventivo.pdf"
+          "nombre": "MPCAB06M",
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MPCAB06M%20-%20Cableado%20-%20Mantenimiento%20Preventivo.pdf"
         },
         {
-          "nombre": "MP-CAB-12M",
-          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MP-CAB-12M%20-%20Cableado%20-%20Mantenimiento%20Preventivo.pdf"
+          "nombre": "MPCAB12M",
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MPCAB12M%20-%20Cableado%20-%20Mantenimiento%20Preventivo.pdf"
         },
         {
-          "nombre": "MP-CRM-01M",
-          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MP-CRM-01M%20-%20Caseta%20de%20control.pdf"
+          "nombre": "MPCRM01M",
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MPCRM01M%20-%20Caseta%20de%20control.pdf"
         },
         {
           "nombre": "MP-CTR-03M",
-          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MP-CTR-03M%20-%20Centros%20de%20transformacion.pdf"
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/alberizas/MPCTR03M%20-%20Centros%20de%20transformacion.pdf"
         }
       ]
     },
     {
-      "nombre": "Cañamares",
+      "nombre": "Canamares",
       "pdfs": [
         {
           "nombre": "Checklist",
-          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/cañamares/archivo.pdf"
+          "url": "https://raw.githubusercontent.com/jescalantejencore-star/checklist-data/main/canamares/archivo.pdf"
         }
       ]
     },
     {
-      "nombre": "La Miranda",
+      "nombre": "LaMiranda",
       "pdfs": [
         {
           "nombre": "Checklist",
